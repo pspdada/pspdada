@@ -1,10 +1,22 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+psp_dada)
 
-<!-- https://git.io/typing-svg -->
-
 ## Self Intro 📌
 
-I'm psp_dada, an undergraduate studying in Harbin Institute of Technology (Shen Zhen).
+Hello, I'm psp_dada
+
+- 📚 Undergraduate at Harbin Institute of Technology (Shenzhen)  
+- 🤖 Enthusiast in Generative AI & Open Source  
+- 🧠 Passionate about Research & Machine Learning  
+- 🌐 Always open to innovative collaborations  
+- ✉️  Contact: pspdada0808@gmail.com  
+
+大家好，我是 psp_dada
+
+- 📚 哈尔滨工业大学（深圳）本科生  
+- 🤖 热衷于生成式 AI 与开源项目  
+- 🧠 对研究与机器学习充满兴趣与毅力  
+- 🌐 期待在创新项目中携手合作  
+- ✉️  邮箱：pspdada0808@gmail.com  
 
 ## GitHub Stats 💡
 
@@ -25,18 +37,3 @@ I'm psp_dada, an undergraduate studying in Harbin Institute of Technology (Shen 
 ## GitHub Visitor Counts 🎉
 
 <img src="https://count.getloli.com/get/@:pspdada?theme=moebooru">
-
-<!--
-**pspdada/pspdada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
