@@ -20,6 +20,8 @@ Hello, I'm psp_dada
 - 🌐 期待在创新项目中携手合作
 - ✉️ 邮箱：pspdada0808@gmail.com
 
+[Github](https://github.com/pspdada) / [Google Scholar](https://scholar.google.com/citations?user=mKnBrRAAAAAJ) / [RedNote](https://www.xiaohongshu.com/user/profile/62c6ff3f00000000020025a7) / [Hugging Face](https://huggingface.co/psp-dada) 🤗
+
 ## 🔍 More About Me
 
 ### 📊 Skills
