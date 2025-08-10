@@ -6,11 +6,11 @@
 
 Hello, I'm psp_dada
 
-- 📚 Undergraduate at Harbin Institute of Technology (Shenzhen)
-- 🤖 Enthusiast in Multimodal LLMs, Preference Optimization, Multimodal Agents, and Open Source
-- 🧠 Passionate about academic research and continuous learning
-- 🌐 Always open to innovative collaborations and new opportunities
-- ✉️ Contact: pspdada0808@gmail.com
+- Undergraduate at Harbin Institute of Technology (Shenzhen)
+- Enthusiast in Multimodal LLMs, Preference Optimization, Multimodal Agents, and Open Source
+- Passionate about academic research and continuous learning
+- Always open to innovative collaborations and new opportunities
+- Contact: pspdada0808@gmail.com
 
 [Github](https://github.com/pspdada) / [Google Scholar](https://scholar.google.com/citations?user=mKnBrRAAAAAJ) / [RedNote](https://www.xiaohongshu.com/user/profile/62c6ff3f00000000020025a7) / [Hugging Face](https://huggingface.co/psp-dada) 🤗
 
