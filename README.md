@@ -12,7 +12,7 @@ Hello, I'm psp_dada
 - Always open to innovative collaborations and new opportunities
 - Contact: pspdada0808@gmail.com
 
-[Github](https://github.com/pspdada) / [Google Scholar](https://scholar.google.com/citations?user=mKnBrRAAAAAJ) / [RedNote](https://www.xiaohongshu.com/user/profile/62c6ff3f00000000020025a7) / [Hugging Face](https://huggingface.co/psp-dada) 🤗
+[Github](https://github.com/pspdada) / [Google Scholar](https://scholar.google.com/citations?user=mKnBrRAAAAAJ) / [ORCID](https://orcid.org/0009-0000-5949-0524) / [OpenReview](https://openreview.net/profile?id=%7EShangpin_Peng1) / [RedNote](https://www.xiaohongshu.com/user/profile/62c6ff3f00000000020025a7) / [Hugging Face](https://huggingface.co/psp-dada) 🤗
 
 ## 🔍 More About Me
 
