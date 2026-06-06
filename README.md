@@ -1,5 +1,3 @@
-<!-- Generated from: https://git.io/typing-svg -->
-
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+psp_dada!)
 
 ## 📌Self Intro
@@ -18,14 +16,13 @@ Hello, I'm psp_dada
 
 ### 📊 Skills
 
-<!-- 技能图标展示 -->
-
 - **Programming & Tools:**
-  <!-- Generated from: https://git.io/typing-svg -->
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,c,java,bash,pytorch,git,github,vscode,latex,md,arduino,flutter" />
-    </a>
+    <object data="https://skillicons.dev/icons?i=py,c,java,bash,pytorch,git,github,vscode,latex,md,arduino,flutter" type="image/svg+xml">
+      <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,java,bash,pytorch,git,github,vscode,latex,md,arduino,flutter" />
+      </a>
+    </object>
   </p>
 
 - **Languages:** Chinese (Native) & English
@@ -36,14 +33,13 @@ Hello, I'm psp_dada
 <div style="display: flex;">
   <img
     style="height: 170px; object-fit: cover;"
-    src="https://github-readme-stats.vercel.app/api?username=pspdada&theme=tokyonight&show_icons=true"
+    src="./profile/stats.svg"
   />
   <img
     style="height: 170px; object-fit: cover;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pspdada&layout=compact&theme=tokyonight"
+    src="./profile/top-langs.svg"
   />
 </div>
-
 
 ### 🎉 GitHub Visitor Counts
 
