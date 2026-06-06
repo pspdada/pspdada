@@ -1,4 +1,4 @@
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+psp_dada!" width="435" height="50" alt="Typing SVG" />
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&background=00000000&lines=Hi+there+%F0%9F%91%8B+I'm+psp_dada!" width="435" height="50" alt="Typing SVG" />
 
 ### 📌 Self Intro
 
