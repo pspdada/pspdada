@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">psp_dada's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 77, Total Commits  (last year) : 127, Total PRs: 90, Total Issues: 102, Contributed to (last year): 41</desc>
+        <desc id="descId">Total Stars Earned: 77, Total Commits  (last year) : 119, Total PRs: 90, Total Issues: 102, Contributed to (last year): 37</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 106.93835521008532;
+        stroke-dashoffset: 107.5989972301832;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >127</text>
+      >119</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >41</text>
+      >37</text>
     </g>
   </g>
     </svg>
