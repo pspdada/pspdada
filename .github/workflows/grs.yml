@@ -15,21 +15,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Backed by https://github.com/stats-organization/github-stats-extended
+      # (successor of the archived anuraghazra/github-readme-stats).
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github
           path: profile/stats.svg
           token: ${{ secrets.PAT_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&langs_count=8
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
+          fail_on_error: true
 
       - name: Commit cards
         run: |
